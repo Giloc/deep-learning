@@ -12,3 +12,6 @@ python
 
 
 Ser paciente, el entrenamiento de los modelos puede ser demorado(3h-8h)
+
+
+Link vídeo: https://www.youtube.com/watch?v=7wETOHeTLrc
