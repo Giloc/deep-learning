@@ -6,6 +6,7 @@ Descargar y subir los siguientes archivos train.csv test.csv para los datos a en
 Tener en cuenta a la hora de leer los csv del drive cargarlos desde la carpeta correcta, en nuestro caso de esta manera:
 
 python
+
     df_train = pd.read_csv("/content/drive/MyDrive/Colab Notebooks/Deep Learning/Proyecto/disaster_train.csv")
     df_test = pd.read_csv("/content/drive/MyDrive/Colab Notebooks/Deep Learning/Proyecto/disaster_test.csv")
 
